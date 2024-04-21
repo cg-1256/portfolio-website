@@ -1,6 +1,10 @@
 body{
     background: #1a0022;
 }
+h1, p {
+    color: #ddd;
+}
+
 #header {
     background-color: #110022;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
