@@ -78,4 +78,5 @@ nav ul li:hover > ul {
 
 a {
     color: #ccccff;
+    text-decoration-line: underline;
 }
