@@ -156,3 +156,13 @@ aside {
     float: inline-end;
     padding: 4%;
 }
+
+.icons{
+  list-style: none;
+  align-items: center;
+}
+
+.icons li {
+  padding-top:  20px;
+
+}
